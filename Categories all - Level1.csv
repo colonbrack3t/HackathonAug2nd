@@ -1,0 +1,6 @@
+cre89_categoryid,cre89_categorylevel,cre89_description,cre89_fullcategorypath,importsequencenumber,cre89_level1parent,cre89_level2parent,cre89_id,IGNORE,cre89_risknature,statuscode,statecode,timezoneruleversionnumber,utcconversiontimezonecode,versionnumber,owningbusinessunit,cre89_parent.cre89_id
+70549468-fefd-ef11-bae3-6045bd0c57a4,Level 1,,Financial Risks,,Financial Risks,,Financial Risks,----,,1,0,,,2346940,b17bfab8-a0f0-ef11-be21-000d3a0cb0a0,
+9ce16876-fefd-ef11-bae3-6045bd0c57a4,Level 1,,Obligations Risks,,Obligations Risks,,Obligations Risks,----,,1,0,,,2346944,b17bfab8-a0f0-ef11-be21-000d3a0cb0a0,
+bf93a260-7efa-ef11-bae2-6045bd0c57a4,Level 1,,Operational Risks,,Operational Risks,,Operational Risks,----,,1,0,,,2346932,b17bfab8-a0f0-ef11-be21-000d3a0cb0a0,
+afa53c5a-fefd-ef11-bae3-6045bd0c57a4,Level 1,,People Risks,,People Risks,,People Risks,---,,1,0,,,2346936,b17bfab8-a0f0-ef11-be21-000d3a0cb0a0,
+5808ae51-8afa-ef11-bae2-6045bd0c57a4,Level 1,,Strategic Risks,,Strategic Risks,,Strategic Risks,----,,1,0,,,2346928,b17bfab8-a0f0-ef11-be21-000d3a0cb0a0,
